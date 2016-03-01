@@ -2,7 +2,7 @@
 //  ViewController.m
 //  calculator
 //
-//  Created by 蒋欣洋 on 16/3/1.
+//  Created by chen on 16/3/1.
 //  Copyright (c) 2016年 luoyangligong. All rights reserved.
 //
 
