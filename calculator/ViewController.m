@@ -27,7 +27,7 @@
     self.view.backgroundColor = [UIColor lightGrayColor];
 }
 
-- (IBAction)numberClick:(UIButton *)sender {//数字0~9
+- (IBAction)numberClick:(UIButton *)sender {//数字0~9//
     
     switch (sender.tag) {
         case 1:
